@@ -38,11 +38,11 @@ Ik stel me kort voor aan de test personen en leg het onderzoek uit.
 
 Hier wordt de handbreedte (A) van de persoon gemeten, we meten van de linkerzijde van de wijsvinger tot de rechterzijde van de pink.
 
-![image](https://github.com/babouba2004/testprotocol_antropometrie/assets/170766817/55f3db7c-a2ac-44e7-bf12-384d847eaee5)
+![image](https://github.com/babouba2004/testprotocol_antropometrie/assets/170766817/f9f1bdc7-5595-479a-babb-cf57a8f0eb6c)
 
 Hier wordt de handlengte (B) van de persoon gemeten, we meten bij de onderkant van de handpalm tot de vingertop van de middelvinger.
 
-![image](https://github.com/babouba2004/testprotocol_antropometrie/assets/170766817/22b56c72-79b1-483b-91ae-4ee6e627da92)
+![image](https://github.com/babouba2004/testprotocol_antropometrie/assets/170766817/c0ccf914-254e-40a2-8ec2-57f3b2b2dc6e)
 
 Hier wordt de duimbreedte (C) van de persoon gemeten, we meten bij de verdikking van de duim (linkerzijde tot rechterzijde van de duim).
 
