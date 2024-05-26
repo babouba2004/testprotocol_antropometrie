@@ -48,4 +48,4 @@ Hier wordt de duimbreedte (C) van de persoon gemeten, we meten bij de verdikking
 
 ![image](https://github.com/babouba2004/testprotocol_antropometrie/assets/170766817/f47c1610-0ce9-4723-a697-594c19761e2e)
 
-Uit deze waarden kunnen we dan over waarden beschikken die ons een beter beeld hebben om de grootte en vorm van de centrale knop van de middenconsole.
+<b>Uit deze waarden kunnen we dan over waarden beschikken die ons een beter beeld hebben om de grootte en vorm van de centrale knop van de middenconsole.</b>
